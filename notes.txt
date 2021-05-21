@@ -1,0 +1,5 @@
+https://docs.amplify.aws/start/q/integration/react-native
+https://docs.amplify.aws/lib/datastore/sync/q/platform/js#existing-backend
+https://docs.amplify.aws/ui/q/framework/react-native
+https://docs.amplify.aws/cli/graphql-transformer/relational
+https://aws.amazon.com/es/blogs/mobile/connect-amplify-datastore-with-existing-sql-datasources-adding-offline-and-sync-features-in-your-application/
